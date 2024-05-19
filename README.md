@@ -1,6 +1,5 @@
-### Hi there 👋
-
 ![banner](https://github.com/Validity0/Validity0/assets/170221247/223ea5d9-e7cb-4ab6-89f6-27070518b2c9)
+
 <!--
 **Validity0/Validity0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
