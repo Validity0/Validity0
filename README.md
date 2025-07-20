@@ -1,6 +1,9 @@
 <!--![banner](https://github.com/Validity0/Validity0/assets/170221247/223ea5d9-e7cb-4ab6-89f6-27070518b2c9)-->
 
-I am a high school student learning how to code - I am currently working on personal projects - I am passionate about learning and technology
+- I am a college student learning about data structures and algorithms
+- I am currently working on making an ai voice assistant(like jarvis from iron man)
+- I am passionate about learning and technology
+- I am looking for interships as a software developer
 <!--
 **Validity0/Validity0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
